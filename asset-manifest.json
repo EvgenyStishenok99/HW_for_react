@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/EvgenyStishenok99/HW_for_react.git/static/css/main.073c9b0a.css",
-    "main.js": "/EvgenyStishenok99/HW_for_react.git/static/js/main.dfacb2b0.js",
-    "static/js/787.177e23c2.chunk.js": "/EvgenyStishenok99/HW_for_react.git/static/js/787.177e23c2.chunk.js",
-    "index.html": "/EvgenyStishenok99/HW_for_react.git/index.html",
-    "main.073c9b0a.css.map": "/EvgenyStishenok99/HW_for_react.git/static/css/main.073c9b0a.css.map",
-    "main.dfacb2b0.js.map": "/EvgenyStishenok99/HW_for_react.git/static/js/main.dfacb2b0.js.map",
-    "787.177e23c2.chunk.js.map": "/EvgenyStishenok99/HW_for_react.git/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/HW_for_react/static/css/main.073c9b0a.css",
+    "main.js": "/HW_for_react/static/js/main.73af6b5b.js",
+    "static/js/787.177e23c2.chunk.js": "/HW_for_react/static/js/787.177e23c2.chunk.js",
+    "index.html": "/HW_for_react/index.html",
+    "main.073c9b0a.css.map": "/HW_for_react/static/css/main.073c9b0a.css.map",
+    "main.73af6b5b.js.map": "/HW_for_react/static/js/main.73af6b5b.js.map",
+    "787.177e23c2.chunk.js.map": "/HW_for_react/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.dfacb2b0.js"
+    "static/js/main.73af6b5b.js"
   ]
 }
