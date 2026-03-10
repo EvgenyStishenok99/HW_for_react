@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div className="App">
-      fvrwvrfrvf
+
       <HW1 />
       <HW2 />
       {/*<HW3 />*/}
